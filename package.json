@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/iavianm/mesto-react/issues"
   },
-  "private": true,
+  "homepage": "https://iavianm.github.io/mesto-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
